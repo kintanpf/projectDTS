@@ -168,7 +168,7 @@ header {
     font-size: 36px;
     padding-top: 10px;
     font-weight: bold;
-    padding-left: 120px;
+    padding-left: 200px;
 }
 
 .footer-logo span {
@@ -177,7 +177,7 @@ header {
 
 .footer-list {
     float: left;
-    margin-left: 120px;
+    margin-left: 200px;
 }
 
 .footer-list li {
